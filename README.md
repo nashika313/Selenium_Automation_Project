@@ -10,10 +10,12 @@ This project is used to automate certain tasks using selenium web driver.
 2. Download the Selenium_Demoblaze directory from this repository.
 3. Import the project into your eclipse as Maven Project.
 4. The project structure should look like below
-![](screenshots/ELK_Stack.png)
+![](screenshots/Project_structure.png)
 
 5. Click Project -> Build -> Clean to make sure there are no problems in the setup.
-![](screenshots/ELK_Stack.png)
+
+![](screenshots/Run_Maven.png)
+
 
 6. Right Click project -> Run as -> Maven Clean
 7. Right Click project -> Run as -> Maven install
