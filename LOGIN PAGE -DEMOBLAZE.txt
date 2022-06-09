@@ -1,0 +1,37 @@
+              LOGIN PAGE FOR DEMOBLAZE     
+          
+   FUNCTIONAL VERIFICATION
+1. Verify if a User should be able to Login with Valid credentials.
+2. Verify if a User should be redirected to appropriate page when forget password link is clicked.
+3. Verify User Creation is successful for unique user name. Duplicate username creation should not be allowed. 
+4. Verify if a User should not be allowed to Login with Valid username and Invalid password.
+5. Verify if a User should not be allowed to Login with Invalid username and Invalid password.
+6. Verify if a User should not be allowed to Login with blank username field and password.
+7. Verify the "Remember me" check box is available on Login screen.
+8. There should be a link to Register for new users.
+9. Verify messages for Invalid Login.
+10.Expired password (notification : 2 days timeline for credentials)
+11.Verify if a User is able to Login with a new password only after he/she has changed the password.
+12.Reset button should clear data from all text boxes in the Login page.
+13.Verify if 'Login'key is working correctly on Login page.
+14.Verify if there is a 'Close'or 'Cancel'button available to close the Login page.
+
+
+   BASIC VALIDATION 
+1. Username value is recommended to be Alphanumeric.
+2. Length validation for Username and password (for eg: 6-12 characters)
+3. Login credentails should case senstitive.
+4. Password should be masked and if needed show password / icon can be added to display the password characters.
+5. Appropriate validation message should be displayed  when invalid username or password is provided.
+6. Special validation messages should be displayed when special characters are provided.
+7. Username field should not contain any Symbol or Special characters.
+  
+  SECURITY CHECKS
+1.Verify if a user cannot enter more than the specified range in each field Username and password.
+2.Verify if the user is using  Valid email or username with Valid password.
+3.Verify if a user should be able to Login  with the same credentials in different browswers at the same time.
+4.Login form should come back to original state after displaying validation messages/errors.
+5.After successful Logout, Clicking on browser 'back button' should not allow you to enter into system once you log out.
+6. Multiple login attempts using same credentails should be prevented to avoid Malicious bot attacks.
+
+

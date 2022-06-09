@@ -1,0 +1,21 @@
+
+                  TEST SCENARIO FOR SIGN UP 
+
+1.  Verify Demoblaze Signup contain Username and passord fields.
+2.  Verify tab funcationality is working properly.
+3.  Verify that Enter/Tab key works as a substitute for the Login button.
+4.  Verify that all the fields such as Username, Password have a valid place holder.
+5.  Verify that clicking on submit(Login) button after entering all the mandatory fields, submits the data to the server.
+6.  Verify that system generates a validation message when clicking on submit(Login)button without filling all the mandatory fields.
+7.  Verify that entering blank spaces on mandatory fields lead to validation error.
+8.  Verify that clicking on submit button by leaving optional fields, submits the data to the server without any validation error
+9.  Verify that case sensitivity of Username is allowed (‘nashika’ & ‘NASHIKA’ are two unique user accounts).
+10. Verify that system generates a validation message when entering existing username.
+11. Verify that the character limit in all the fields (mainly username and password) based on the requirement.
+12. Verify if username can have alphanumeric and special characters as per the requirement.
+13  Verify that the validation of all the fields are as per the requirement.
+14. Verify that the “Close” button is working or not.
+15. Verify that the validation message is displayed when clicking on submit(Login) button.
+16. Verify that the password is in encrypted form when entered.
+17. Verify user gets a successful Sign up message on valid credentials. 
+
