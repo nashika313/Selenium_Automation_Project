@@ -1,11 +1,24 @@
 # README Guide for Selenium_Automation_Project
 >Developed by Nashika Sivakumar
 
-### Testing
-
-
 **DESCRIPTION**
 This project is used to automate certain tasks using selenium web driver.
+
+### Installation
+
+1. Download eclipse / Intelligi and install it in your computer. Make sure Java,Maven are installed. 
+2. Download the Selenium_Demoblaze directory from this repository.
+3. Import the project into your eclipse as Maven Project.
+4. The project structure should look like below
+![](screenshots/ELK_Stack.png)
+
+5. Click Project -> Build -> Clean to make sure there are no problems in the setup.
+![](screenshots/ELK_Stack.png)
+
+6. Right Click project -> Run as -> Maven Clean
+7. Right Click project -> Run as -> Maven install
+8. Chrome browser should automatically open up and it would perform sequence of automated tasks.
+9. Once the test suite is completed, the console logs on eclipse would show the execution status.
 
 Logs for Test Suite
 ````
@@ -52,6 +65,7 @@ Based on the operating System, download and install the following softwares
 * Java 1.8 or greater (https://www.java.com/en/download/)
 * Intellji (https://www.jetbrains.com/idea/download/#section=mac)
 * maven 3 or greater (https://maven.apache.org/download.cgi)
+* Install chrome web browser
 
 
 
