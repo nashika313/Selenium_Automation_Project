@@ -1,6 +1,4 @@
-# Selenium_Automation_Project
-
-# README Guide for Roman Conversion Project
+# README Guide for Selenium_Automation_Project
 >Developed by Nashika Sivakumar
 
 **DESCRIPTION**
