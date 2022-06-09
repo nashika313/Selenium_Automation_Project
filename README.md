@@ -1,10 +1,13 @@
 # README Guide for Selenium_Automation_Project
 >Developed by Nashika Sivakumar
 
+### Testing
+
+
 **DESCRIPTION**
 This project is used to automate certain tasks using selenium web driver.
 
-Sample Rest Endpoint & results.
+Logs for Test Suite
 ````
 INFO: Detected dialect: OSS
 Validate Empty Message: Please fill out Username and Password.
@@ -41,9 +44,6 @@ PASSED: cartDelete
     
     
 ````
-
-### Testing
-
 
 ##PROJECT PRE-REQUISTES
 
